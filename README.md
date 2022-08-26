@@ -1,3 +1,2 @@
 # Csharp-class
-Fall 2022
-dsbfkjsdh
+Fall 2022, Learning unity
